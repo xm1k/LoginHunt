@@ -1,0 +1,7 @@
+sessions/
+user_data/
+__pycache__/
+.pytest_cache/
+.idea/
+config.py
+premium.json
